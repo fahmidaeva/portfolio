@@ -1,0 +1,110 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300..800;1,300..800&display=swap');
+*{
+
+font-family: "Open Sans", sans-serif;
+margin: 0px;
+}
+.navbar{
+    padding: 50px 200px;
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
+}
+.mary{
+    color: #181818;
+    font-weight: 800;
+    font-size: 45px;
+}
+span{
+    color: #fd6e0a;
+}
+ul{
+    display: flex;
+    align-items: baseline;
+}
+ul li{
+    list-style: none;
+    margin-right: 50px;
+}
+li a{
+    text-decoration: none;
+    color: #474747;
+}
+.rong{
+    background-color: #fd6e0a;
+    color:white;
+    text-decoration: none;
+    border-radius: 5px;
+    font-weight: 700;
+    border: none;
+    padding: 15px 35px;
+    font-size:20px ;
+}
+.sob{
+    display: flex;
+    padding: left 200px ;
+    align-items: center;
+    justify-content: space-between;
+}
+header{
+    background-color: #fff8f3;
+    background-image: url(images/header_bg.png),url(images/developer.png);
+    background-repeat: no-repeat;
+    background-position: bottom right,left;
+}
+.dnld{
+    background-color: #fd6e0a;
+    color: white;
+    font-weight: 700;
+    text-align: center;
+    font-size: 20px;
+    padding: 15px 30px;
+    border-radius: 5px;
+    border: none;
+    margin-right: 10px;
+    margin-top: 20px;
+}
+
+.cont{
+    background-color:white;
+    color: #fd6e0a;
+    border-radius: 5px;
+    text-align: center;
+    font-weight: 700;
+    font-size: 2opx;
+    padding: 15px 30px;
+    border: none;
+    border: 1px solid #fd6e0a;
+    margin-left: 30px;
+}
+.hi{
+    color: #474747;
+    font-weight: 600px;
+    font-size: 45px;
+}
+.nam{
+    font-weight: 700;
+    font-size:85px ;
+    color: #181818;
+}
+.prag{
+    font-size: 18px;
+    color: #757575;
+}
+.about{
+    width: 1140px;
+    height: 550px; 
+    background-color: #fff8f3;
+    margin: 130px auto;
+    border-radius: 10px;
+    border-radius: 10px;
+    padding-top: 130px;
+    padding-bottom: 130px;
+
+
+}
+About Me{
+    margin: 0px 150px;
+    border: 1px solid black;
+
+}
